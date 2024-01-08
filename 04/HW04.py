@@ -134,3 +134,4 @@ for i in arr:
     berry=0
     berry=arr[i-1]+arr[i]+arr[i+1]
     print(berry)
+    # if max
